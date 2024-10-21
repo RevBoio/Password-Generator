@@ -1,4 +1,2 @@
-They are not backwards long jumps
-They are backwards long leaps
-
-Anyways just put this into Python and use it if you want to generate a password.
+This is a Password Generator made for Python Apps and Compilers.
+Put this code in and run it if you would like a random password.
